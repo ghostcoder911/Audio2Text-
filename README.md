@@ -28,7 +28,7 @@ Installation
     Clone the repository:
 
 bash
-git clone https://github.com/yourusername/voice-to-text-converter.git
+git clone https://github.com/ghostcoder911/Audio2Text-.git
 
 Change to the project directory:
 
